@@ -1,0 +1,7 @@
+{
+  "name": "animapex",
+  "version": "1.0.0",
+  "description": "A dynamic action plugin to easily animate any APEX component",
+  "author": "Vincent Morneau",
+  "license": "MIT"
+}
