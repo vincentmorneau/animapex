@@ -29,6 +29,10 @@ AnimAPEX - After Animation | animapex-after | Event is triggered after the anima
 - Choose best fitting plugin attributes
 - Choose Affected Elements that the animation will apply to (Items, Buttons, Regions or jQuery Selectors)
 
+## Compatibility
+- APEX 5.0.x
+- APEX 5.1.x
+
 ## Changelog
 [See complete changelog](changelog.md).
 
