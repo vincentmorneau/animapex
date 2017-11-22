@@ -18,10 +18,10 @@ Duration | Defines the animation total duration in seconds. Default: varies depe
 Iteration Count | Defines the number of times the animation is played. Default: 1
 
 ## Plugin Events
-Attribute | Description
+Event Name | Internal Name | Description
 --- | ---
-animapex-before | Event is triggered before the animation starts
-animapex-after | Event is triggered after the animation is finished
+AnimAPEX - Before Animation | animapex-before | Event is triggered before the animation starts
+AnimAPEX - After Animation | animapex-after | Event is triggered after the animation is finished
 
 ## How to use
 - Create a new Dynamic Action with your desired event
