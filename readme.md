@@ -19,7 +19,7 @@ Iteration Count | Defines the number of times the animation is played. Default: 
 
 ## Plugin Events
 Event Name | Internal Name | Description
---- | ---
+--- | --- | ---
 AnimAPEX - Before Animation | animapex-before | Event is triggered before the animation starts
 AnimAPEX - After Animation | animapex-after | Event is triggered after the animation is finished
 
